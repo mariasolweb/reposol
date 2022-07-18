@@ -281,6 +281,10 @@ image
   
 }
 
+.scale:hover{
+    transform: scaleX(1.12)
+}
+
 .articulo2 {
     grid-area: three;
     padding: 30px 90px;
